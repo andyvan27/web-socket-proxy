@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WSChat/.vs/WSChat/FileContentIndex
+/WSChat/.vs/WSChat/v17
+/WSChat/obj/Debug
+/WSChat/packages
+/WSChat/WSChatClient/obj/Debug
+/WSChatProxy/bin
+/WSChatProxy/obj/Debug
+/WSCore/obj/Debug
